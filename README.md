@@ -1,2 +1,1 @@
-Hi!
-variable e: "Hi!"
+variable e: "Hello!"
