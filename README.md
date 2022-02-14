@@ -1,1 +1,1 @@
-variable eeee: "Hi!"
+variable test: "Hi!"
