@@ -1,2 +1,2 @@
 variable eeee: "Hello!";
-variable t: "Hello!"
+variable t: "Hello!";
